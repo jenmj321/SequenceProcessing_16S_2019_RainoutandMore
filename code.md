@@ -576,6 +576,31 @@ Submitted batch job 53541077
 
 I haven't figured out how to export the QIIME2 files yet. 
 
+#### Exporting files from qiime's awful formatting. 
+
+make new directory
+```
+mkdir exported-feature-table
+ ```
+ export files to the new fold your just created. 
+ ```
+qiime tools export \
+ --input-path combined_merged_both_runs_otus_RDP_taxonomy.qza \
+ --output-path exported-feature-table
+```
+The exported file will just be named "taxonomy.tsv" so you will need to change the name in order to also save the taxonomy file for zotus. 
+```
+mv taxonomy.tsv combined_merged_both_runs_otus_RDP_taxonomy.tsv
+ ```
+ repeat with zotus file
+ 
+ ```
+qiime tools export \
+ --input-path combined_merged_both_runs_zotus_RDP_taxonomy.qza \
+ --output-path exported-feature-table
+ 
+ mv taxonomy.tsv combined_merged_both_runs_zotus_RDP_taxonomy.tsv
+``` 
 
 ### Using Silva database and USEARCH
 
