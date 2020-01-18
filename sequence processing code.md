@@ -629,7 +629,7 @@ sbatch classify_silva_OTU.sbatch
 ```
 Submitted batch job 53594826
 
-##### Classifying OTUs
+##### Classifying ZOTUs
 ```
 nano classify_silva_ZOTU.sbatch
 #!/bin/bash --login
