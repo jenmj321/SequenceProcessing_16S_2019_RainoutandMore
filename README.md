@@ -1,6 +1,8 @@
 # List of files in this GitLab
 
+Code for the creation of the files: sequence processing code.md
 
+Code for using RDP database in QIIME2: classifier.md
 
 OTU Table: combined_merged_both_runs_OTU_table.txt.gz
 
