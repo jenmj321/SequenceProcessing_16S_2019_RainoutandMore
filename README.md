@@ -2,15 +2,20 @@
 
 
 
-OTU Table: combined_merged_both_runs_OTU_table.txt
+OTU Table: combined_merged_both_runs_OTU_table.txt.gz
 
-OTU Taxonomy: combined_merged_both_runs_otus_RDP_taxonomy.tsv
+OTU Taxonomy RDP version: combined_merged_both_runs_otus_RDP_taxonomy.tsv.gz
 
-Fasta file of OTU Representative sequence: combined_merged_both_runs_otus.fa 
+ZOTU Taxonomy Silva version: 
+
+Fasta file of OTU Representative sequence: combined_merged_both_runs_otus.fa.gz
 
 
-ZOTU Table: combined_merged_both_runs_ZOTU_table.txt
+ZOTU Table: combined_merged_both_runs_ZOTU_table.txt.gz
 
-ZOTU Taxonomy: combined_merged_both_runs_zotus_RDP_taxonomy.tsv
+ZOTU Taxonomy RDP version: combined_merged_both_runs_zotus_RDP_taxonomy.tsv.gz
 
-Fasta file of ZOTU sequences: combined_merged_both_runs_zotus.fa 
+ZOTU Taxonomy Silva version:
+
+Fasta file of ZOTU sequences: combined_merged_both_runs_zotus.fa.gz
+
