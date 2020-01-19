@@ -8,7 +8,7 @@ OTU Table: [combined_merged_both_runs_OTU_table.txt.gz](combined_merged_both_run
 
 OTU Taxonomy RDP version: [combined_merged_both_runs_otus_RDP_taxonomy.tsv.gz](combined_merged_both_runs_otus_RDP_taxonomy.tsv.gz)
 
-ZOTU Taxonomy Silva version: 
+OTU Taxonomy Silva version: [combined_merged_both_runs_otus_silva_taxonomy.sintax.gz](combined_merged_both_runs_otus_silva_taxonomy.sintax.gz)
 
 Fasta file of OTU Representative sequence: [combined_merged_both_runs_otus.fa.gz](combined_merged_both_runs_otus.fa.gz)
 
@@ -17,7 +17,7 @@ ZOTU Table: [combined_merged_both_runs_ZOTU_table.txt.gz](combined_merged_both_r
 
 ZOTU Taxonomy RDP version: [combined_merged_both_runs_zotus_RDP_taxonomy.tsv.gz](combined_merged_both_runs_zotus_RDP_taxonomy.tsv.gz)
 
-ZOTU Taxonomy Silva version:
+ZOTU Taxonomy Silva version: [combined_merged_both_runs_zotus_silva_taxonomy.sintax.gz](combined_merged_both_runs_zotus_silva_taxonomy.sintax.gz)
 
 Fasta file of ZOTU sequences: [combined_merged_both_runs_zotus.fa.gz](combined_merged_both_runs_zotus.fa.gz)
 
