@@ -574,9 +574,7 @@ sbatch classify_ZOTU.sbatch
 ```
 Submitted batch job 53541077
 
-I haven't figured out how to export the QIIME2 files yet. 
-
-#### Exporting files from qiime's awful formatting. 
+#### Exporting files from QIIME2's awful formatting. 
 
 make new directory
 ```
