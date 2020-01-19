@@ -1,4 +1,4 @@
-# classifying taxonomy of OTUs and ZOTUs using QIIME2 against RDP
+# Classifying taxonomy of OTUs and ZOTUs using QIIME2 with the RDP database
 
 I am using RDP 16s database, downloaded on January 14, 2020. 
 In order to do the classification, I first needed to reformat the database, because the RDP database is formatted very differently from what the input for Qiime is. 
