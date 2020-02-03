@@ -4,6 +4,8 @@ Code for the creation of the files: [sequence processing code.md](sequence proce
 
 Code for using RDP database in QIIME2: [classifier.md](classifier.md)
 
+Sample key [sample_Key_2020_01_19.csv](sample_Key_2020_01_19.csv)
+
 OTU Table: [combined_merged_both_runs_OTU_table.txt.gz](combined_merged_both_runs_OTU_table.txt.gz)
 
 OTU Taxonomy RDP version: [combined_merged_both_runs_otus_RDP_taxonomy.tsv.gz](combined_merged_both_runs_otus_RDP_taxonomy.tsv.gz)
